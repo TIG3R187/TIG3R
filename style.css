@@ -38,9 +38,8 @@ body {
     
     p {
         color: black;
-        background-color: hsla(255, 100%, 25%, 0.4);
         margin: auto;
-        padding: 0;
+        padding: 25px;
         text-align: center;
         font-weight: 900;
         text-transform: uppercase;
