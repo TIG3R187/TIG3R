@@ -27,7 +27,7 @@ body {
         text-align: center;
         padding: 20px;
         font-size: large;
-        
+
     }
     
     .otaku {
@@ -37,7 +37,7 @@ body {
     }
     
     p {
-        color: blanchedalmond;
+        color: black;
         background-color: hsla(255, 100%, 25%, 0.4);
         margin: auto;
         padding: 0;
@@ -49,7 +49,7 @@ body {
     }
     
     .progress {
-        color: antiquewhite;
+        color: black;
         font-size: large;
         font-weight: 100;
         text-align: center;
