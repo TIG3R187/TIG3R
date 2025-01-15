@@ -4,6 +4,10 @@ body {
     margin: 0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 1px;
+    background-size: cover;
+    background-position: 0%;
+    height: fit-content;
+    width: fit-content;
     }
     
     * {
@@ -30,7 +34,7 @@ body {
     }
     
     p {
-        color:aqua;
+        color: blanchedalmond;
         background-color: bisque;
         margin: auto;
         padding: 0;
@@ -56,7 +60,7 @@ body {
     
     footer {
         color: cornflowerblue;
-        background-color: aqua;
+        background-color: black;
         position: fixed;
         border-bottom: 0cap;
     }
