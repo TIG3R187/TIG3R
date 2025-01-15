@@ -26,28 +26,33 @@ body {
         font-family: sans-serif;
         text-align: center;
         padding: 20px;
+        font-size: large;
+        
     }
     
     .otaku {
     color: green;
+    background-color: black;
     
     }
     
     p {
         color: blanchedalmond;
-        background-color: bisque;
+        background-color: hsla(255, 100%, 25%, 0.4);
         margin: auto;
         padding: 0;
         text-align: center;
-        font-weight: 1px;
+        font-weight: 900;
         text-transform: uppercase;
-        font-size: 20px;
+        font-size: large;
+        font-style: normal;
     }
     
     .progress {
         color: antiquewhite;
-        font-size: small;
+        font-size: large;
         font-weight: 100;
+        text-align: center;
     }
     
     h2 {
