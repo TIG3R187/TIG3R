@@ -1,4 +1,4 @@
-# TIG3R JUB
+# TIG3R HUB
 
 ## 🚀 About Me
 Welcome to my personal blog! My name is **Isaac Yakubu**, a **Front-End Engineer** passionate about creating sleek, interactive, and user-friendly web experiences. I specialize in crafting beautiful and responsive interfaces that enhance digital accessibility and engagement.
